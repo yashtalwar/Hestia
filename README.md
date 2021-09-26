@@ -3,10 +3,7 @@ Hestia is an application focused on creating communities for causes, hosting eve
 
 
 # Stack & Technologies 
-Maven
-Java 1.8 and Spring Framework (Back-End)
-PSQL (Back-end)
-npm and js (Front-End)
+Maven | Java 1.8 and Spring Framework (Back-End) | PSQL (Back-end) | npm and js (Front-End)
 
 # To Run the Backend:
   For SQL
