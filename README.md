@@ -1,7 +1,5 @@
 # Hestia
-JP Morgan Code For Good Hackathon Project
-
-Hestia An application focused on creating communities for causes, hosting events, and publishing information.
+Hestia is an application focused on creating communities for causes, hosting events, and publishing information.
 
 
 # Stack & Technologies 
