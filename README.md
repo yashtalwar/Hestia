@@ -4,13 +4,13 @@ JP Morgan Code For Good Hackathon Project
 Hestia An application focused on creating communities for causes, hosting events, and publishing information.
 
 
-#Stack & Technologies 
+# Stack & Technologies 
 Maven
 Java 1.8 and Spring Framework (Back-End)
 PSQL (Back-end)
 npm and js (Front-End)
 
-#To Run the Backend:
+# To Run the Backend:
   For SQL
   open psql
   CREATE DATABASE hestia;
@@ -20,7 +20,7 @@ npm and js (Front-End)
   cd to the directory: .\hestia\src\main\java\com\hackathon\hestia\
   Navigate to the file called HestiaApplication.java and hit run to run the main method
 
-#To Run the Front End:
+# To Run the Front End:
   Open up a new terminal, and navigate to .\hestia\src\main\resources\static
   Type the command: npm start
   Wait till something happens
